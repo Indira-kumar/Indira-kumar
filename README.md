@@ -10,3 +10,8 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Indira-kumar&show_icons=true&locale=en" alt="Indirakumar" /></p>
+<div> 
+  <img width="345" src="https://github-readme-stats.vercel.app/api?username=Indira-kumar&show_icons=true&theme=calm"/> &nbsp;
+  <img width="345" src="http://github-readme-streak-stats.herokuapp.com?user=Indira-kumar&theme=onedark&date_format=M%20j%5B%2C%20Y%5D"/> &nbsp;
+  <img width="290" src="https://github-readme-stats.vercel.app/api/top-langs?username=Indira-kumar&show_icons=true&locale=en&layout=compact&theme=onedark"/>
+</div>
