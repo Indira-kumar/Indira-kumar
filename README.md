@@ -1,7 +1,7 @@
 <h1>Hi, I'm Indira Kumar</h1>
 <h3>A developer from India</h3>
 
-- 🌱 I’m currently learning **Flutter Cross Platform Development**
+- 🌱 I’m currently learning **System Design**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,5 +13,5 @@
 <div> 
   <img width="345" src="https://github-readme-stats.vercel.app/api?username=Indira-kumar&show_icons=true&theme=calm"/> &nbsp;
   <img width="345" src="http://github-readme-streak-stats.herokuapp.com?user=Indira-kumar&theme=onedark&date_format=M%20j%5B%2C%20Y%5D"/> &nbsp;
-  <img width="290" src="https://github-readme-stats.vercel.app/api/top-langs?username=Indira-kumar&show_icons=true&locale=en&layout=compact&theme=onedark"/>
+  <!-- <img width="290" src="https://github-readme-stats.vercel.app/api/top-langs?username=Indira-kumar&show_icons=true&locale=en&layout=compact&theme=onedark"/> -->
 </div>
