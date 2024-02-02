@@ -3,19 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indira-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="indira-kumar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indira-kumar" alt="indira-kumar" /></a> </p>
 
 - 🌱 I’m currently learning **Operating Systems**
 
 - 👨‍💻 All of my projects are available at [https://indirakumar.com/](https://indirakumar.com/)
 
-- 📝 Sometimes,I write articles on [https://medium.com/@indirakumarak](https://medium.com/@indirakumarak)
+- 📝 Sometimes,I write articles on [medium about tech](https://medium.com/@indirakumarak)
 
 - 💬 Ask me about **MERN stack**
 
 - 📫 How to reach me **indirakumarak@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gOq5CctDuxF3QTmPG-5VC-IN9P66DC1u/view](https://drive.google.com/file/d/1gOq5CctDuxF3QTmPG-5VC-IN9P66DC1u/view)
+- 📄 Know about my experiences with my [resume](https://drive.google.com/file/d/1gOq5CctDuxF3QTmPG-5VC-IN9P66DC1u/view)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
