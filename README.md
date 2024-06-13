@@ -18,11 +18,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [The Classical Let vs Const vs Var keyword in JavaScript](https://medium.com/@indirakumarak/the-classical-let-vs-const-vs-var-keyword-in-javascript-13132097a546?source=rss-c726beb59987------2)
+- [The Classical Let vs Const vs Var keyword in JavaScript](https://blog.devgenius.io/the-classical-let-vs-const-vs-var-keyword-in-javascript-13132097a546?source=rss-c726beb59987------2)
 - [Function Composition Vs Inheritance](https://medium.com/@indirakumarak/function-composition-vs-inheritance-e024c76c8aab?source=rss-c726beb59987------2)
 - [Pure vs Impure Functions in JavaScript](https://medium.com/@indirakumarak/pure-vs-impure-functions-in-javascript-e6a7ffef221a?source=rss-c726beb59987------2)
 - [A Deep Dive into Arrays In JavaScript](https://medium.com/@indirakumarak/arrays-in-javascript-56d6d1397f86?source=rss-c726beb59987------2)
-- [A Comprehensive Course on GitHub](https://medium.com/@indirakumarak/a-comprehensive-course-on-github-27f2b0f67c78?source=rss-c726beb59987------2)
+- [A Comprehensive Course on GitHub](https://blog.devgenius.io/a-comprehensive-course-on-github-27f2b0f67c78?source=rss-c726beb59987------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
