@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indira-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="indira-kumar" /> </p>
 
 
-- 🌱 I’m currently learning **Operating Systems**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://indirakumar.com/](https://indirakumar.com/)
 
