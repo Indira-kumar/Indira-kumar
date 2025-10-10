@@ -1,22 +1,16 @@
 <h1 align="center">Hi 👋, I'm Indira Kumar A K</h1>
-<h3 align="center">Read my story at my portfolio</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indira-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="indira-kumar" /> </p>
 
 
-- 🌱 I’m currently learning **Kubernetes**
 
-- 👨‍💻 All of my projects are available at [https://indirakumar.com/](https://indirakumar.com/)
+- All of my projects are available at [https://indirakumar.com/](https://indirakumar.com/)
 
-- 📝 Sometimes,I write articles on [medium about tech](https://medium.com/@indirakumarak)
+- I write my thoughts on [my blog](https://indirakumar.com/blog)
 
-- 💬 Ask me about **MERN stack**
+- You can reach me at **indirakumarak@gmail.com**
 
-- 📫 How to reach me **indirakumarak@gmail.com**
-
-- 📄 Know about my experiences with my [resume](https://drive.google.com/file/d/1gOq5CctDuxF3QTmPG-5VC-IN9P66DC1u/view)
-
-### Blogs posts
+### My old Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [The Classical Let vs Const vs Var keyword in JavaScript](https://blog.devgenius.io/the-classical-let-vs-const-vs-var-keyword-in-javascript-13132097a546?source=rss-c726beb59987------2)
 - [Function Composition Vs Inheritance](https://medium.com/@indirakumarak/function-composition-vs-inheritance-e024c76c8aab?source=rss-c726beb59987------2)
@@ -38,4 +32,4 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=indira-kumar&theme=vue-dark&hide_border=true" alt="indira-kumar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=indira-kumar&show_icons=true&locale=en" alt="indira-kumar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indira-kumar&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="indira-kumar" /></p>
